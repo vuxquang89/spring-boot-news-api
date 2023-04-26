@@ -78,4 +78,7 @@ Header :
 
 - load dữ liệu bản tin - url: http://localhost:8080/api/new?page=1&limit=2
 Method: GET
-  
+
+- tìm kiếm bản tin - url : http://localhost:8080/api/new/search?keyword=text
+Method: GET
+
