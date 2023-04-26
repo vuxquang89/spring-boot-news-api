@@ -82,3 +82,9 @@ Method: GET
 - tìm kiếm bản tin - url : http://localhost:8080/api/new/search?keyword=text
 Method: GET
 
+- đăng xuất - url : http://localhost:8080/api/logout
+Method: GET
+Header : 
+  Key : Authorization 
+  Value : Example refreshtoken
+
